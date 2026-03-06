@@ -1,5 +1,5 @@
 # Hi 👋, I'm Vijay Anandan
-
+![Profile views](https://komarev.com/ghpvc/?username=Vijayvj0506&color=blue)
 🚀 **Full-Stack Python Developer | Django | React | REST APIs**
 
 I am a passionate Full-Stack Developer with **3+ years of experience** building scalable web applications. I specialize in **Python backend development with Django/Flask** and modern frontend technologies like **React, HTML, CSS, and JavaScript**.
