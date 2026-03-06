@@ -1,1 +1,3 @@
-![Snake animation](https://github.com/Vijayvj0506/Vijayvj0506/blob/output/github-contribution-grid-snake.svg)
+outputs: |
+  dist/github-contribution-grid-snake.svg
+  dist/github-contribution-grid-snake-dark.svg?palette=github-dark
