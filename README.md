@@ -58,12 +58,6 @@ I am a passionate Full-Stack Developer with **3+ years of experience** building 
 
 ---
 
-## 📈 Most Used Languages
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Vijayvj0506\&layout=compact\&theme=tokyonight)
-
----
-
 ## 🐍 Contribution Snake
 
 ![Snake animation](https://github.com/Vijayvj0506/Vijayvj0506/blob/output/github-contribution-grid-snake.svg)
