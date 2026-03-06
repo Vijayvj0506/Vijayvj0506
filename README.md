@@ -74,7 +74,7 @@ I am a passionate Full-Stack Developer with **3+ years of experience** building 
 
 * 📧 Email: [vijayanandan102k@gmail.com](mailto:vijayanandan102k@gmail.com)
 * 📱 Phone: +91 78715 05976
-* 💼 LinkedIn: (Add your LinkedIn profile link)
+* 💼 LinkedIn: www.linkedin.com/in/vijay-anandan-460244212
 
 ---
 
