@@ -46,11 +46,7 @@ I am a passionate Full-Stack Developer with **3+ years of experience** building 
 
 ---
 
-## 📊 GitHub Stats
 
-![Vijay's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vijayvj0506\&show_icons=true\&theme=tokyonight)
-
----
 
 ## 🔥 GitHub Streak
 
